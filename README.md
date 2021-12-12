@@ -6,6 +6,10 @@
 
 또한 모두가 개발 과정을 볼 수 있게 Public Repository로 만들고 있으니 코드 기여를 원하시는 부분이나 코드리뷰 및 개선점에 대해서 문의하고 싶으신 분은 자유롭게 연락주시면 감사하겠습니다 :)
 
+---
+
+<a href="https://www.notion.so/9ba0ba188b2249b7928e99e081aed6e4"><h3>👉 KHUChallengers Notion 링크</h3></a>
+
 ![image](https://user-images.githubusercontent.com/14370441/134780193-f9135c39-9005-458c-8aa7-2937cbcd5e94.png)
 
 ---
