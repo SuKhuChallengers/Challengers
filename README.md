@@ -8,7 +8,7 @@
 
 ---
 
-<a href="https://www.notion.so/9ba0ba188b2249b7928e99e081aed6e4"><h3>👉 KHUChallengers Notion 링크</h3></a>
+<a href="https://www.notion.so/9ba0ba188b2249b7928e99e081aed6e4"><h3>👉 KHUChallengers Notion 링크 (현재 비공개 상태입니다..)</h3></a>
 
 ![image](https://user-images.githubusercontent.com/14370441/134780193-f9135c39-9005-458c-8aa7-2937cbcd5e94.png)
 
